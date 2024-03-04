@@ -1,4 +1,4 @@
-# PTHON-PROJECTS
+# QRCODE GENERATOR
 The provided code is a Python script that generates a QR code image using the qrcode library. Here's a breakdown of what each part of the code does:
 
 Importing Libraries:
